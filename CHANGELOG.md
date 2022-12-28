@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/devopsarr/arr-py/compare/v0.1.1...v0.2.0) (2022-12-28)
+
+
+### Features
+
+* make ArrModel subscriptable ([6857049](https://github.com/devopsarr/arr-py/commit/6857049627cba02eccd090b800bcaabb30262fbb))
+
 ## [0.1.1](https://github.com/devopsarr/arr-py/compare/v0.1.0...v0.1.1) (2022-12-27)
 
 
